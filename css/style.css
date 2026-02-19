@@ -372,3 +372,12 @@ a:hover{ opacity: 0.95; }
 .blob-1, .blob-2 {
   animation: floaty 6s ease-in-out infinite;
 }
+
+.video-section {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.video-section h2 {
+  margin-bottom: 10px;
+}
